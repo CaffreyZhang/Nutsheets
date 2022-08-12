@@ -1,3 +1,18 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [提高生产力的工具](#%E6%8F%90%E9%AB%98%E7%94%9F%E4%BA%A7%E5%8A%9B%E7%9A%84%E5%B7%A5%E5%85%B7)
+  - [Command Line Tools](#command-line-tools)
+  - [Web 网站](#web-%E7%BD%91%E7%AB%99)
+  - [Chrome 插件](#chrome-%E6%8F%92%E4%BB%B6)
+  - [Ubuntu](#ubuntu)
+  - [MacOS](#macos)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # 提高生产力的工具
 
 ## Command Line Tools
@@ -49,8 +64,6 @@
 | OctoTree         | github 项目自动展开目录  |
 | Revolver         | 轮询展示 Chrome Tab  |
 
-
-
 ## Ubuntu
 
 | 名字        | 作用  |
@@ -68,3 +81,5 @@
 | Rectangle | 方便的移动和调整窗口大小 |
 | Karabiner | 键位映射         |
 | Clipy     | 可以保留历史版本的粘贴板 |
+| Iterm2    | 无敌好用的终端      |
+| Keka      | 无敌好用的解压软件    |
